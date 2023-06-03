@@ -9,7 +9,7 @@ def guessing_game(level):
         guess = int(input())
         
         if guess == generated_number:
-            print("Congratulations! You guessed the correct number.")
+            print("Congratulations!Congratulations!Congratulations! You guessed the correct number.")
             return
         
         if guess > generated_number:
